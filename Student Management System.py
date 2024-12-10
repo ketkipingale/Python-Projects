@@ -1,3 +1,8 @@
+""" ***STUDENT MANAGEMENT SYSTEM***
+
+Below Python Code is for Student Management System. 
+With help of this we can Add, Delete, Search, Update and Display student details from Database.  """
+
 
 db=[]
 class Student:
